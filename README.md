@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhaHo117
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web Dev with HTML5, CSS, and Jave
+- 🌱 I’m currently learning Cyber Sercurity
 - 💞️ I’m looking to collaborate on coding responesive website
 - 📫 How to reach me ...
 
